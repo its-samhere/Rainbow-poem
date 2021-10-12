@@ -3,3 +3,5 @@ Indigo
 Blue
 Green 
 Yellow
+orange
+red
